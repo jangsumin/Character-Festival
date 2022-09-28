@@ -12,5 +12,6 @@
 - - -
 ### 참고
 * '뽀길이' 헤딩요소의 글꼴('font-family')는 네이버에서 무료로 배포하는 '나눔손글씨 배은혜체'입니다.
-* HTML Validator✅
 * 머리는 svg 파일을 사용했고, path 태그 내에 style 속성을 지정해주면 색깔을 변경할 수 있습니다.
+* HTML Validator✅
+* [bbogil](https://jangsumin.github.io/Character_Festival/, "bbogil link")
