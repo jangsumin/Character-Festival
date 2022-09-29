@@ -355,13 +355,14 @@ body {
 .sect-name {
     position: absolute;
     top: 420px;
-    left: 225px;
-    width: 120px;
+    left: 132px;
+    width: 300px;
     animation: fadein 2s 13s 1 backwards;
 }
 
 .sect-name h1 {
     font-family: 'NanumBaeEunHyeCe';
-    font-size: 70px;
+    font-size: 65px;
+    text-align: center;
     letter-spacing: 5px;
 }
